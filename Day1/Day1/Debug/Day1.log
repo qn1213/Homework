@@ -1,0 +1,72 @@
+﻿  Main.cpp
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(10): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(11): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(12): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(13): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(16): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(18): error C2065: 'player': 선언되지 않은 식별자입니다.
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(18): error C2065: 'state': 선언되지 않은 식별자입니다.
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(30): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(31): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(32): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(33): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(44): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(45): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(46): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(47): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(58): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(59): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(60): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(61): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(72): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(73): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(74): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(75): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(86): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(87): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(88): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(89): error C2061: 구문 오류: 식별자 'Player'
+  Player.cpp
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(10): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(11): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(12): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(13): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(16): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(18): error C2065: 'player': 선언되지 않은 식별자입니다.
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(18): error C2065: 'state': 선언되지 않은 식별자입니다.
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(30): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(31): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(32): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(33): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(44): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(45): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(46): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(47): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(58): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(59): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(60): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(61): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(72): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(73): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(74): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(75): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(86): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(87): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(88): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(89): error C2061: 구문 오류: 식별자 'Player'
+c:\users\neko\desktop\schoolrepo\day1\day1\player.cpp(17): error C2660: 'PlayerState::Move': 함수는 1개의 매개 변수를 사용하지 않습니다.
+  c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(10): note: 'PlayerState::Move' 선언을 참조하십시오.
+c:\users\neko\desktop\schoolrepo\day1\day1\player.cpp(22): error C2660: 'PlayerState::Eat': 함수는 1개의 매개 변수를 사용하지 않습니다.
+  c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(11): note: 'PlayerState::Eat' 선언을 참조하십시오.
+c:\users\neko\desktop\schoolrepo\day1\day1\player.cpp(27): error C2660: 'PlayerState::Attack': 함수는 1개의 매개 변수를 사용하지 않습니다.
+  c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(12): note: 'PlayerState::Attack' 선언을 참조하십시오.
+c:\users\neko\desktop\schoolrepo\day1\day1\player.cpp(32): error C2660: 'PlayerState::Idle': 함수는 1개의 매개 변수를 사용하지 않습니다.
+  c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(13): note: 'PlayerState::Idle' 선언을 참조하십시오.
+  PlayerState.cpp
+c:\users\neko\desktop\schoolrepo\day1\day1\player.h(12): error C2143: 구문 오류: ';'이(가) '*' 앞에 없습니다.
+c:\users\neko\desktop\schoolrepo\day1\day1\player.h(12): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\neko\desktop\schoolrepo\day1\day1\player.h(12): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+c:\users\neko\desktop\schoolrepo\day1\day1\player.h(17): error C2061: 구문 오류: 식별자 'PlayerState'
+c:\users\neko\desktop\schoolrepo\day1\day1\playerstate.h(18): error C2660: 'Player::SetState': 함수는 1개의 매개 변수를 사용하지 않습니다.
+  c:\users\neko\desktop\schoolrepo\day1\day1\player.h(17): note: 'Player::SetState' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
